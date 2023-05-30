@@ -83,4 +83,4 @@ necessary information is stored correctly.
 + MySql: `v.8.0.22`
 + Javax Servlet: `v.4.0.1`
 + Jackson Databind: `v.2.14.1`
-+ Jackson Datatype jsr310: `2.13.0`
++ Jackson Datatype jsr310: `v.2.13.0`
