@@ -2,14 +2,14 @@
 
 ---
 
-## Project descriptions
+## :speech_balloon: Project descriptions
 `A cinema web-application that supports authentication (that based to roles of users), 
 registration, session management and other CRUD operations.`
 
 ![cinema_1.png](cinema_1.png)
 ---
 
-## Futures
+## :clipboard: Futures
 + Users can register as new users to access the application.
 + Users can authenticate themselves to access their accounts.
 + create and find movie
@@ -17,7 +17,7 @@ registration, session management and other CRUD operations.`
 + add tickets to shopping cart
 + complete an order
 ---
-## How to launch
+## :running: How to launch
 
 1. Clone this project
 2. You should prepare Tomcat 9.0.74.
@@ -29,7 +29,7 @@ You should replace `YOUR_DRIVER`, `YOUR_DATA_URL`,
 6. Use Tomcat to launch application.
 7. Use Postman for sending your requests during testing this application
 ---
-## Structure
+## :open_file_folder: Structure
 + Config: configs is respond for all configurations in project
 + In `src/main/java/cinema/config/DataInitializer` you can change
 admin email and password for your own.
@@ -67,12 +67,12 @@ necessary information is stored correctly.
 + Util: Contains Date pattern.
 + Resources: Contains properties to connect your DB.
 ---
-## Database Structure
+## :floppy_disk: Database Structure
 
 ![239759497-d095ac55-8132-4c75-844a-2801f684e467.png](239759497-d095ac55-8132-4c75-844a-2801f684e467.png)
 
 ---
-## Used Technologies
+## :key: Used Technologies
 + Tomcat: `v.9.0.74`
 + Java: `v.19.0.1`
 + Maven: `v.3.8.6`
