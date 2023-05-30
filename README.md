@@ -6,7 +6,7 @@
 `A cinema web-application that supports authentication (that based to roles of users), 
 registration, session management and other CRUD operations.`
 
-![cinema_1.png](..%2F..%2FDesktop%2Fcinema_1.png)
+![cinema_1.png](cinema_1.png)
 ---
 
 ## Futures
@@ -68,7 +68,8 @@ necessary information is stored correctly.
 + Resources: Contains properties to connect your DB.
 ---
 ## Database Structure
-![239759497-d095ac55-8132-4c75-844a-2801f684e467.png](..%2F..%2FDesktop%2F239759497-d095ac55-8132-4c75-844a-2801f684e467.png)
+
+![239759497-d095ac55-8132-4c75-844a-2801f684e467.png](239759497-d095ac55-8132-4c75-844a-2801f684e467.png)
 
 ---
 ## Used Technologies
