@@ -1,4 +1,4 @@
-# Cinema App
+# :movie_camera: Cinema App
 
 ---
 
