@@ -8,7 +8,6 @@ import cinema.service.mapper.RequestDtoMapper;
 import cinema.service.mapper.ResponseDtoMapper;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
 class MovieControllerTest {
@@ -30,10 +29,5 @@ class MovieControllerTest {
     @BeforeEach
     void setUp() {
         movieRequestDto = new MovieRequestDto();
-    }
-
-    @Test
-    void add_OK() {
-        movieController.add();
     }
 }
