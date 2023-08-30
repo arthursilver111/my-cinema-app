@@ -10,9 +10,9 @@ import org.hibernate.query.Query;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class RoleDao extends AbstractDao<Role> implements cinema.dao.RoleDao {
+public class RoleDaoImpl extends AbstractDao<Role> implements cinema.dao.RoleDao {
 
-    public RoleDao(SessionFactory factory) {
+    public RoleDaoImpl(SessionFactory factory) {
         super(factory, Role.class);
     }
 
